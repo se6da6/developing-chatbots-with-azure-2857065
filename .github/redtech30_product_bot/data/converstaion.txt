@@ -1,0 +1,14 @@
+Bot: Hi, I am product bot of redect 30 and I can answer questions about our product
+User: What is redtech30?
+Bot: <Company description>
+User: Tell me more about your Ml solutions
+Bot: <list down Ml products>
+User: What features does Ml learn product provude?
+Bot: <list down the features>
+User: Can I get a demo?
+Bot: I can put you in touch with someone in my team would you like that
+User: Yes sure
+Bot: <Get the user information>
+User: <gives the information>
+Bot: Ypu will hear from us shortly with a scheduled demo
+User: Thank you
